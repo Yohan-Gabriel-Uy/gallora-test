@@ -1,0 +1,2 @@
+# gallora-test
+test lng
